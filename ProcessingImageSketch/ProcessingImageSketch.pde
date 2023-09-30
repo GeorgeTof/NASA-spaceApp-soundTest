@@ -23,7 +23,7 @@ void draw()
     
   image(img,0,0,w,h);
   
-  fill(204, 102, 0);
+  fill(204, 0, 102);
   rect(i, 0, 10, h);
   //delay(30);
   i+=3;
